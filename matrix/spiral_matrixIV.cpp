@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
 public:
     vector<vector<int>> spiralMatrix(int n, int m, ListNode* head) {
         // if (matrix.size() == 0) 
