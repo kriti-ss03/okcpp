@@ -1,5 +1,7 @@
 class Solution {
 public:
+//M1 using the fact that only ith n ith+1 is needed
+//cutting n using symmetry
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
 
        
